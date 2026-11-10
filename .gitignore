@@ -25,3 +25,5 @@ Thumbs.db
 # Si algún proyecto pesa mucho por muchos gráficos/widgets y prefieren
 # no versionarlo, descomenten:
 # *.html
+
+**/*.quarto_ipynb
