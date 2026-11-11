@@ -1,4 +1,4 @@
-# [Nombre del equipo] — Proyecto Módulo [N]
+# tif-m3-8— Proyecto Módulo [3]
 
 Repo de equipo para el proyecto del Módulo [N] del curso de Forecasting de
 Series de Tiempo (ITESO).
