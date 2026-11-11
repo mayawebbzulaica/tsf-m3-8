@@ -1,6 +1,6 @@
 # tif-m3-8— Proyecto Módulo [3]
 
-Repo de equipo para el proyecto del Módulo [N] del curso de Forecasting de
+Repo de equipo para el proyecto del Módulo 3 del curso de Forecasting de
 Series de Tiempo (ITESO).
 
 ## Integrantes
