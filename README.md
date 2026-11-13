@@ -5,10 +5,10 @@ Series de Tiempo (ITESO).
 
 ## Integrantes
 
-- Nombre 1
-- Nombre 2
-- Nombre 3
-- Nombre 4
+- Maya Angela Webb Zulaica
+- Matteo Nelson Rodriguez
+- Sebastian Ochoa Sanchez
+- Diego Eduardo Martinez Sincel
 
 ## Qué incluye este repo
 
